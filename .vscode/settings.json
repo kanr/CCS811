@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/admin/.platformio/penv/bin:/Users/admin/.platformio/penv:/anaconda3/bin:/Users/admin/google-cloud-sdk/bin:/Users/admin/.local/bin:/Users/admin/.nix-profile/bin:/Users/admin/.nix-profile/sbin:/Users/admin/.nix-profile/lib/kde4/libexec:/nix/var/nix/profiles/default/bin:/nix/var/nix/profiles/default/sbin:/nix/var/nix/profiles/default/lib/kde4/libexec:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/opt/puppetlabs/bin:/Applications/Wireshark.app/Contents/MacOS",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
